@@ -1,0 +1,18 @@
+	body{
+		background-image:url(https://www.wallpapersguru.com/wp-content/uploads/2015/05/lonely-plant-in-dark-room-black-wallpaper.jpg); ;
+		color:white;
+	}
+	img{
+		width: 250px;
+		height: 250px;
+		border-radius: 50%;
+		margin: 20px;
+		border:10px solid white;
+	}
+	img:hover{
+		cursor: pointer;
+	}
+	div{
+		width: 300px;
+		height: 100px;
+	}
